@@ -27,3 +27,5 @@ CURRENT OUTPUT:
 *The filter was able to work by taking in the sensor outputs and and give appropriate results.
 
 
+![image](https://user-images.githubusercontent.com/86162449/181720288-d33e8f49-b447-4df1-9ddf-abce81d1fdfc.png)
+
